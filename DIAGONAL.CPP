@@ -1,12 +1,10 @@
-//write a progrom to print sum of elements of diagonal of matrix
-//Downloaded From www.turboc8.com coded by Yogendra Singh.
+
 #include<iostream.h>
 #include<conio.h>
 int main()
 {
 
 clrscr();
-cout<<"                         www.turboc8.com"<<endl;
 int a[50][50],b=0,i,j,m,n;
 cout<<"Enter the order of matrix ";
 cin>>n;
